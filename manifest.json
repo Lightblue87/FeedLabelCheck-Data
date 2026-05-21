@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T12:51:56.883540+00:00",
+  "generated_at": "2026-05-21T13:42:30.081931+00:00",
   "record_count": 1105,
   "files": {
     "sqlite": {
@@ -12,5 +12,15 @@
       "sha256": "994c7ad617e2ea6a06563511c2dae26f050da23b153719e97b4d1717d0228e85",
       "bytes": 992422
     }
+  },
+  "labeling_db": {
+    "file": "laves_labeling.sqlite",
+    "version": "2026-05-21",
+    "regulation": "VO (EG) Nr. 767/2009",
+    "celex": "02009R0767-20181226",
+    "sha256": "0617fb03fd68310b31bfa370c3389762080a0db1bdba62dbce12346a387143ba",
+    "rule_count": 39,
+    "bytes": 106496,
+    "created_at": "2026-05-21T13:42:30Z"
   }
 }
