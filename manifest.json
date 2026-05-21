@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-05-21T09:54:17.143002+00:00",
+  "record_count": 1104,
+  "files": {
+    "sqlite": {
+      "name": "laves.sqlite",
+      "sha256": "9b82d8e43a34a2ac2db43366747000c1912fe1927805d12f6b0455d57184f57c",
+      "bytes": 2170880
+    },
+    "json": {
+      "name": "zusatzstoffe.json",
+      "sha256": "99d4730a08a9e6815f6a643e5963296d7984007b031dca1cc449e5a71118e7d3",
+      "bytes": 991468
+    }
+  }
+}
