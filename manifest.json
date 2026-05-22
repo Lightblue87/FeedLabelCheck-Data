@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T13:42:30.081931+00:00",
+  "generated_at": "2026-05-22T17:46:06.175835+00:00",
   "record_count": 1105,
   "files": {
     "sqlite": {
       "name": "laves.sqlite",
-      "sha256": "cb3dd1286a79638fbc9024a53e8ddaf20311e73b387bd0789fd8bb4c47bb276c",
-      "bytes": 2174976
+      "sha256": "8cdefa5b5b4ab2e9856df0265780a3f522023cbc54176ce12adb11d36cc58a4e",
+      "bytes": 2170880
     },
     "json": {
       "name": "zusatzstoffe.json",
@@ -15,12 +15,12 @@
   },
   "labeling_db": {
     "file": "laves_labeling.sqlite",
-    "version": "2026-05-21",
+    "version": "2026-05-22",
     "regulation": "VO (EG) Nr. 767/2009",
     "celex": "02009R0767-20181226",
-    "sha256": "0617fb03fd68310b31bfa370c3389762080a0db1bdba62dbce12346a387143ba",
+    "sha256": "ae4671513b41c1803308f64ecd4ee6f7f7509deb22f0640a4c164bfb44513961",
     "rule_count": 39,
-    "bytes": 106496,
-    "created_at": "2026-05-21T13:42:30Z"
+    "bytes": 352256,
+    "created_at": "2026-05-22T17:46:06Z"
   }
 }
