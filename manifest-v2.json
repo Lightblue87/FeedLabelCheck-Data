@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T09:37:40.898748+00:00",
+  "generated_at": "2026-06-22T09:25:34.728345+00:00",
   "record_count": 1105,
   "files": {
     "sqlite": {
@@ -18,9 +18,9 @@
     "version": "2026-05-26",
     "regulation": "VO (EG) Nr. 767/2009",
     "celex": "02009R0767-20181226",
-    "sha256": "1ae0695bd6b4b77c030d20b875bfa6db90a98fc1d55f22e7df024bb1256a3157",
+    "sha256": "aee5db7183abd021de4700279c71908c53a7d0e9a6490b53d7fad2578e25a6b9",
     "rule_count": 39,
     "bytes": 671744,
-    "created_at": "2026-06-15T09:37:28Z"
+    "created_at": "2026-06-22T09:25:21Z"
   }
 }
